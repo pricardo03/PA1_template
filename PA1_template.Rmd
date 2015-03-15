@@ -1,12 +1,11 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
-author: "Rohit Chaube"
-date: "Saturday, October 18, 2014"
+author: "Ricardo Estrada"
+date: "Sunday, March 15, 2015"
 output: 
   html_document:
     keep_md: true
 ---
 
-This is an R Markdown document for Peer Assessments 1 for Reproducible Research Class - Oct 2014.
 
 
