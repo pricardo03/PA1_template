@@ -10,9 +10,8 @@ This is an R Markdown document for Peer Assessments 1 for Reproducible Research 
 
 
 ```r
-activity_data <- read.csv('activity.csv')
-## activity_data_no_na <- activity_data[complete.cases(activity_data),]
-summary(activity_data)
+#Load activity data from csv
+activity <- read.csv("./activity.csv")
 ```
 
 ## What is mean total number of steps taken per day?
